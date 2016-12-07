@@ -1,0 +1,20 @@
+{
+  "name": "gulp-images-helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-responsive": "^2.6.0",
+    "gulp-svgmin": "^1.2.3",
+    "imagemin-pngquant": "^5.0.0"
+  }
+}
